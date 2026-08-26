@@ -11,7 +11,7 @@ An ultra-modern, high-performance **3D Developer Portfolio** featuring real-time
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4.0-38B2AC.svg?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-[Live Demo](#) · [Features](#-features) · [Quick Start](#-quick-start) · [Customization](#-customization) · [License](#-license)
+[🚀 Live Demo](https://yusuftunga1.github.io/3d-portfolio/) · [✨ Features](#-features) · [🚀 Quick Start](#-quick-start) · [🎨 Customization](#-customization) · [📜 License](#-license)
 
 </div>
 
