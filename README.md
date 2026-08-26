@@ -61,8 +61,8 @@ Make sure you have **Node.js** (v18+ recommended) and **npm** or **pnpm** instal
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yusuftunga1/threejs-developer-portfolio.git
-cd threejs-developer-portfolio
+git clone https://github.com/yusuftunga1/3d-portfolio.git
+cd 3d-portfolio
 ```
 
 ### 2. Install dependencies
@@ -117,7 +117,7 @@ You can easily adapt this portfolio with your own information:
 ## 🤝 Contributing & Community
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/yusuftunga1/threejs-developer-portfolio/issues) if you have any questions or ideas.
+Feel free to check the [issues page](https://github.com/yusuftunga1/3d-portfolio/issues) if you have any questions or ideas.
 
 If you find this project helpful or inspiring, please give it a ⭐️ **Star** on GitHub!
 

@@ -26,7 +26,7 @@ const PROJECTS = [
     desc: "Gerçek zamanlı makine öğrenimi boru hattı görselleştiricisi ve dağıtık worker yönetimi. Üç boyutlu dinamik veri akışı ve yüksek performanslı mimari.",
     stack: ["TypeScript", "Three.js", "Node.js", "Redis", "Docker"],
     status: "production",
-    link: "https://github.com/yusuftunga1/threejs-developer-portfolio",
+    link: "https://github.com/yusuftunga1/3d-portfolio",
     img: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=340&fit=crop&auto=format",
   },
   {
@@ -35,7 +35,7 @@ const PROJECTS = [
     desc: "Erişilebilir, koyu tema odaklı ve modern mikro-animasyonlar içeren açık kaynak React bileşen kütüphanesi.",
     stack: ["React", "TypeScript", "Tailwind CSS", "Storybook"],
     status: "open-source",
-    link: "https://github.com/yusuftunga1/threejs-developer-portfolio",
+    link: "https://github.com/yusuftunga1/3d-portfolio",
     img: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=340&fit=crop&auto=format",
   },
   {
@@ -44,7 +44,7 @@ const PROJECTS = [
     desc: "Mikroservisler arası dağıtık istek ve performans izleme sistemi. Düşük gecikmeli telemetri ve interaktif metrik panosu.",
     stack: ["Go", "OpenTelemetry", "ClickHouse", "React"],
     status: "beta",
-    link: "https://github.com/yusuftunga1/threejs-developer-portfolio",
+    link: "https://github.com/yusuftunga1/3d-portfolio",
     img: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=340&fit=crop&auto=format",
   },
   {
@@ -53,7 +53,7 @@ const PROJECTS = [
     desc: "Saniyeler içinde izole geliştirme ve test ortamları oluşturan geliştirici CLI aracı. Hızlı konteyner yönetimi.",
     stack: ["Rust", "Docker", "WebAssembly"],
     status: "production",
-    link: "https://github.com/yusuftunga1/threejs-developer-portfolio",
+    link: "https://github.com/yusuftunga1/3d-portfolio",
     img: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=340&fit=crop&auto=format",
   },
 ];
